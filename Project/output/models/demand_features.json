@@ -1,0 +1,15 @@
+[
+  "sites_supplied",
+  "last_week_cases",
+  "avg_4_week_cases",
+  "avg_26_week_cases",
+  "seasonal_index",
+  "weeks_since_launch",
+  "channel",
+  "region",
+  "product_category",
+  "pack_description",
+  "promotion_next_week_flag",
+  "distribution_change_flag",
+  "key_account_flag"
+]

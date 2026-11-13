@@ -1,0 +1,264 @@
+{
+  "customer_emails": {
+    "columns": 12,
+    "duplicate_rows": 712,
+    "email_lengths_disagreeing_with_plain_text_as_received": 8746,
+    "emails_in_capitals": 721,
+    "emails_with_encoding_artifacts": 3860,
+    "emails_with_markup": 6312,
+    "missing_cells_after_cleaning": {
+      "product_code": 5970,
+      "sender_role": 362
+    },
+    "missing_cells_as_received": {
+      "product_code": 6104,
+      "request_type": 281,
+      "sender_role": 367
+    },
+    "rows_kept": 35223,
+    "rows_missing_target": 281,
+    "rows_received": 36712,
+    "rows_removed": 1489,
+    "rows_with_too_few_words": 496,
+    "shortest_email_words": 9,
+    "target_shares": {
+      "Allocation query": 0.139,
+      "Delivery complaint": 0.1625,
+      "Expedite request": 0.1389,
+      "Forecast update": 0.1287,
+      "Order cancellation": 0.1116,
+      "Quantity increase": 0.1584,
+      "Substitution accepted": 0.1102,
+      "Urgent clinical need": 0.0507
+    },
+    "weekdays_not_written_canonically": 14417
+  },
+  "order_history_eval": {
+    "account_codes_not_written_canonically": 5042,
+    "answered_second_arrivals_removed": 376,
+    "columns": 30,
+    "counts_above_their_total_as_received": {
+      "past_orders_cut": 7
+    },
+    "duplicate_rows": 190,
+    "missing_cells_after_cleaning": {
+      "account_age_weeks": 39,
+      "customer_stock_cover_weeks": 65,
+      "entered_by": 37,
+      "form_version": 41,
+      "lead_time_days": 54,
+      "ordered_vs_usual_pct": 4,
+      "past_orders_cut": 7,
+      "promotion_flag": 58,
+      "region": 50,
+      "sites_supplied": 46,
+      "weekday_entered": 52
+    },
+    "missing_cells_as_received": {
+      "account_age_weeks": 45,
+      "customer_stock_cover_weeks": 63,
+      "cut_after_shortage": 86,
+      "entered_by": 43,
+      "form_version": 46,
+      "lead_time_days": 52,
+      "promotion_flag": 60,
+      "region": 53,
+      "sites_supplied": 48,
+      "weekday_entered": 53
+    },
+    "numbers_written_with_a_unit_or_percent_sign": {
+      "account_age_weeks": 417,
+      "cases_per_pallet": 0,
+      "customer_stock_cover_weeks": 718,
+      "lead_time_days": 693,
+      "ordered_vs_usual_pct": 2662,
+      "orders_this_week": 682,
+      "past_orders_cut": 0,
+      "past_shortage_orders": 0,
+      "received_sequence": 0,
+      "sites_supplied": 532,
+      "weeks_on_allocation": 0
+    },
+    "pack_descriptions_not_written_canonically": 3038,
+    "quantities_by_unit_as_written": {
+      "cs": 6299,
+      "plt": 230,
+      "units": 2151
+    },
+    "rows_kept": 8218,
+    "rows_missing_target": 86,
+    "rows_received": 8870,
+    "rows_removed": 652,
+    "target_shares": {
+      "No": 0.7429,
+      "Yes": 0.2571
+    },
+    "values_below_minimum_as_received": {
+      "customer_stock_cover_weeks": 5,
+      "lead_time_days": 5,
+      "ordered_vs_usual_pct": 4
+    },
+    "weekdays_not_written_canonically": 3439
+  },
+  "order_history_train": {
+    "account_codes_not_written_canonically": 20130,
+    "answered_second_arrivals_removed": 1542,
+    "columns": 30,
+    "counts_above_their_total_as_received": {
+      "past_orders_cut": 31
+    },
+    "duplicate_rows": 801,
+    "missing_cells_after_cleaning": {
+      "account_age_weeks": 202,
+      "customer_stock_cover_weeks": 227,
+      "entered_by": 167,
+      "form_version": 192,
+      "lead_time_days": 183,
+      "ordered_vs_usual_pct": 33,
+      "past_orders_cut": 29,
+      "promotion_flag": 161,
+      "region": 181,
+      "sites_supplied": 188,
+      "weekday_entered": 198
+    },
+    "missing_cells_as_received": {
+      "account_age_weeks": 213,
+      "customer_stock_cover_weeks": 219,
+      "cut_after_shortage": 332,
+      "entered_by": 178,
+      "form_version": 203,
+      "lead_time_days": 169,
+      "promotion_flag": 170,
+      "region": 194,
+      "sites_supplied": 201,
+      "weekday_entered": 218
+    },
+    "numbers_written_with_a_unit_or_percent_sign": {
+      "account_age_weeks": 1646,
+      "cases_per_pallet": 0,
+      "customer_stock_cover_weeks": 2729,
+      "lead_time_days": 2695,
+      "ordered_vs_usual_pct": 10025,
+      "orders_this_week": 2660,
+      "past_orders_cut": 0,
+      "past_shortage_orders": 0,
+      "received_sequence": 0,
+      "sites_supplied": 1963,
+      "weeks_on_allocation": 0
+    },
+    "pack_descriptions_not_written_canonically": 11648,
+    "quantities_by_unit_as_written": {
+      "cs": 23885,
+      "plt": 838,
+      "units": 8814
+    },
+    "rows_kept": 31663,
+    "rows_missing_target": 332,
+    "rows_received": 34338,
+    "rows_removed": 2675,
+    "target_shares": {
+      "No": 0.7517,
+      "Yes": 0.2483
+    },
+    "values_below_minimum_as_received": {
+      "customer_stock_cover_weeks": 19,
+      "lead_time_days": 28,
+      "ordered_vs_usual_pct": 33
+    },
+    "weekdays_not_written_canonically": 13458
+  },
+  "weekly_demand_eval": {
+    "columns": 20,
+    "duplicate_rows": 247,
+    "median_next_week_cases": 51.0,
+    "missing_cells_after_cleaning": {
+      "avg_26_week_cases": 103,
+      "distribution_change_flag": 112,
+      "extract_batch": 93,
+      "extract_weekday": 102,
+      "last_week_cases": 22,
+      "planner_code": 124,
+      "region": 112,
+      "seasonal_index": 18,
+      "weeks_since_launch": 90
+    },
+    "missing_cells_as_received": {
+      "avg_26_week_cases": 103,
+      "distribution_change_flag": 112,
+      "extract_batch": 93,
+      "extract_weekday": 102,
+      "next_week_cases": 94,
+      "planner_code": 124,
+      "region": 112,
+      "weeks_since_launch": 90
+    },
+    "numbers_written_with_a_unit_or_percent_sign": {
+      "avg_26_week_cases": 0,
+      "avg_4_week_cases": 0,
+      "last_week_cases": 718,
+      "next_week_cases": 0,
+      "seasonal_index": 0,
+      "sites_supplied": 620,
+      "weeks_since_launch": 612
+    },
+    "pack_descriptions_not_written_canonically": 3537,
+    "rows_kept": 10214,
+    "rows_missing_target": 94,
+    "rows_received": 10579,
+    "rows_removed": 365,
+    "rows_with_impossible_target": 24,
+    "values_below_minimum_as_received": {
+      "last_week_cases": 22,
+      "next_week_cases": 24,
+      "seasonal_index": 20
+    },
+    "weekdays_not_written_canonically": 4065
+  },
+  "weekly_demand_train": {
+    "columns": 20,
+    "duplicate_rows": 732,
+    "median_next_week_cases": 51.0,
+    "missing_cells_after_cleaning": {
+      "avg_26_week_cases": 309,
+      "distribution_change_flag": 287,
+      "extract_batch": 301,
+      "extract_weekday": 300,
+      "last_week_cases": 60,
+      "planner_code": 291,
+      "region": 311,
+      "seasonal_index": 56,
+      "weeks_since_launch": 310
+    },
+    "missing_cells_as_received": {
+      "avg_26_week_cases": 309,
+      "distribution_change_flag": 287,
+      "extract_batch": 301,
+      "extract_weekday": 300,
+      "next_week_cases": 316,
+      "planner_code": 291,
+      "region": 311,
+      "weeks_since_launch": 310
+    },
+    "numbers_written_with_a_unit_or_percent_sign": {
+      "avg_26_week_cases": 0,
+      "avg_4_week_cases": 0,
+      "last_week_cases": 2198,
+      "next_week_cases": 0,
+      "seasonal_index": 0,
+      "sites_supplied": 1919,
+      "weeks_since_launch": 1835
+    },
+    "pack_descriptions_not_written_canonically": 10894,
+    "rows_kept": 30855,
+    "rows_missing_target": 316,
+    "rows_received": 32005,
+    "rows_removed": 1150,
+    "rows_with_impossible_target": 102,
+    "values_below_minimum_as_received": {
+      "last_week_cases": 60,
+      "next_week_cases": 102,
+      "seasonal_index": 56
+    },
+    "weekdays_not_written_canonically": 12376
+  }
+}

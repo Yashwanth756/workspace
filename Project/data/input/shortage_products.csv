@@ -1,0 +1,41 @@
+product_code,product_name,product_category,pack_description,units_per_case,cases_per_pallet,cases_available_this_week,cases_available_next_week,shortage_reason,weeks_on_allocation,seasonal_index
+DC-0250,Wrenfield Dishwasher Cleaner 250 ml,Dishwash,12x250ml,12,100,2019,2392,Trigger spray shortage,3,102
+DG-1000,Wrenfield Dishwasher Gel 1 litre,Dishwash,6x1000ml,6,70,156,260,Label supplier delay,1,99
+DR-0500,Wrenfield Rinse Aid 500 ml,Dishwash,12x500ml,12,60,900,700,Quality hold on a production batch,1,98
+DS-5000,Wrenfield Dishwasher Detergent 5 litre,Dishwash,2x5000ml,2,60,1573,2158,Trigger spray shortage,5,101
+DW-0450,Wrenfield Dishwash Liquid 450 ml,Dishwash,12x450ml,12,60,1000,900,Bottle supplier missed a delivery,1,103
+DW-0900,Wrenfield Dishwash Liquid 900 ml,Dishwash,6x900ml,6,80,2105,1705,Cap and closure shortage,1,102
+DW-5000,Wrenfield Dishwash Liquid 5 litre,Dishwash,2x5000ml,2,60,3103,3293,Planned maintenance overran,3,98
+HA-0250,Wrenfield Antibacterial Hand Wash 250 ml,Hand hygiene,12x250ml,12,100,2736,2465,Filling line breakdown,4,93
+HF-0400,Wrenfield Foaming Hand Wash 400 ml,Hand hygiene,6x400ml,6,140,1547,1220,Label supplier delay,4,94
+HF-0800,Wrenfield Foaming Hand Wash Cartridge 800 ml,Hand hygiene,6x800ml,6,80,1874,2367,Fragrance could not be sourced,3,93
+HS-0050,Wrenfield Hand Sanitiser 50 ml,Hand hygiene,24x50ml,24,150,224,210,Quality hold on a production batch,2,93
+HS-0250,Wrenfield Hand Sanitiser 250 ml,Hand hygiene,12x250ml,12,90,1596,1453,Bottle supplier missed a delivery,2,90
+HS-0500,Wrenfield Hand Sanitiser 500 ml,Hand hygiene,12x500ml,12,50,1200,1000,Filling line breakdown,1,96
+HS-1000,Wrenfield Hand Sanitiser 1 litre,Hand hygiene,6x1000ml,6,60,480,520,Bottle supplier missed a delivery,2,95
+HW-0250,Wrenfield Hand Wash 250 ml,Hand hygiene,12x250ml,12,100,2339,1549,Cap and closure shortage,4,90
+HW-0300,Wrenfield Moisturising Hand Wash 300 ml,Hand hygiene,12x300ml,12,90,1172,1086,Demand surge after news coverage,5,92
+HW-0500,Wrenfield Hand Wash 500 ml,Hand hygiene,12x500ml,12,55,228,250,Cap and closure shortage,1,93
+HW-5000,Wrenfield Hand Wash 5 litre,Hand hygiene,2x5000ml,2,60,189,227,Label supplier delay,2,93
+LF-1000,Wrenfield Fabric Conditioner 1 litre,Laundry,6x1000ml,6,70,250,300,Planned maintenance overran,2,93
+LF-2000,Wrenfield Fabric Conditioner 2 litre,Laundry,4x2000ml,4,60,4032,5888,Fragrance could not be sourced,3,97
+LL-1000,Wrenfield Laundry Liquid 1 litre,Laundry,6x1000ml,6,70,1699,1570,Quality hold on a production batch,3,94
+LL-5000,Wrenfield Laundry Liquid 5 litre,Laundry,2x5000ml,2,60,3443,3078,Cap and closure shortage,1,97
+LN-1500,Wrenfield Non-Bio Laundry Liquid 1.5 litre,Laundry,4x1500ml,4,80,330,450,Fragrance could not be sourced,3,94
+LS-1000,Wrenfield Stain Remover 1 litre,Laundry,6x1000ml,6,70,1637,1467,Trigger spray shortage,3,96
+LW-0750,Wrenfield Delicates Wash 750 ml,Laundry,6x750ml,6,90,1519,1247,Cap and closure shortage,6,98
+SB-0750,Wrenfield Bathroom Disinfectant Spray 750 ml,Surface disinfection,6x750ml,6,100,360,420,Trigger spray shortage,2,99
+SD-0750,Wrenfield Surface Disinfectant Spray 750 ml,Surface disinfection,6x750ml,6,100,280,320,Trigger spray shortage,2,99
+SF-1000,Wrenfield Floor Disinfectant 1 litre,Surface disinfection,6x1000ml,6,60,320,290,Planned maintenance overran,4,95
+SF-5000,Wrenfield Floor Disinfectant 5 litre,Surface disinfection,2x5000ml,2,60,645,788,Demand surge after news coverage,4,99
+SG-0500,Wrenfield Glass and Steel Disinfectant 500 ml,Surface disinfection,12x500ml,12,60,999,1033,Bottle supplier missed a delivery,2,95
+SK-0750,Wrenfield Kitchen Disinfectant Spray 750 ml,Surface disinfection,6x750ml,6,100,2656,1980,Demand surge after news coverage,1,99
+SM-0750,Wrenfield Antibacterial Multi-Surface Spray 750 ml,Surface disinfection,6x750ml,6,100,2212,1922,Cap and closure shortage,5,97
+SM-5000,Wrenfield Multi-Surface Cleaner 5 litre,Surface disinfection,2x5000ml,2,60,1444,889,Planned maintenance overran,4,97
+SV-0750,Wrenfield Virucidal Disinfectant Spray 750 ml,Surface disinfection,6x750ml,6,100,1403,840,Planned maintenance overran,6,94
+TB-0750,Wrenfield Thick Bleach 750 ml,Toilet care,12x750ml,12,50,300,340,Raw material shortage,1,94
+TB-2000,Wrenfield Thick Bleach 2 litre,Toilet care,6x2000ml,6,50,1096,957,Cap and closure shortage,4,95
+TC-0750,Wrenfield Toilet Cleaner 750 ml,Toilet care,12x750ml,12,50,374,380,Raw material shortage,1,96
+TC-5000,Wrenfield Toilet Cleaner 5 litre,Toilet care,2x5000ml,2,60,3337,3954,Fragrance could not be sourced,3,96
+TG-0750,Wrenfield Thick Toilet Gel 750 ml,Toilet care,12x750ml,12,50,1817,1484,Filling line breakdown,3,97
+TU-0750,Wrenfield Urinal Cleaner 750 ml,Toilet care,12x750ml,12,50,384,543,Trigger spray shortage,5,94

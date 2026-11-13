@@ -1,0 +1,22 @@
+[
+  "cases_per_pallet",
+  "ordered_quantity",
+  "ordered_vs_usual_pct",
+  "orders_this_week",
+  "lead_time_days",
+  "sites_supplied",
+  "customer_stock_cover_weeks",
+  "account_age_weeks",
+  "past_shortage_orders",
+  "past_orders_cut",
+  "weeks_on_allocation",
+  "order_route",
+  "product_category",
+  "pack_description",
+  "same_order_other_route_flag",
+  "channel",
+  "region",
+  "key_account_flag",
+  "shortage_publicised_flag",
+  "promotion_flag"
+]

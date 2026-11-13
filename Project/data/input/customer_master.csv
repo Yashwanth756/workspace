@@ -1,0 +1,181 @@
+account_code,customer_name,channel,region,sites_supplied,key_account_flag,delivery_postcode,account_status
+CUS-0001,Ilford Vale Online,Online,London,3,No,NW12 2YD,Active
+CUS-0002,Bramwell Care Homes,Healthcare,East Midlands,28,No,DE1 3XH,Active
+CUS-0003,Prestwold Local,Convenience,East Midlands,296,Yes,LE2 2NA,Active
+CUS-0004,Maidwell Neighbourhood Stores,Convenience,South East,15,No,GU14 4NE,Active
+CUS-0005,Valebridge Facility Services,Facilities,Yorkshire,502,Yes,HD12 6GF,Active
+CUS-0006,Edgecombe Hospital Supplies,Healthcare,Wales,45,No,LL14 6NU,Active
+CUS-0007,Wardleigh Online,Online,London,5,Yes,W7 8UA,Active
+CUS-0008,Nettleham Foodstores,Supermarket,West Midlands,120,No,ST15 4YH,Active
+CUS-0009,Merriton Supermarkets,Supermarket,London,206,No,SE5 9ZL,Active
+CUS-0010,Kendrick Medical Supplies,Healthcare,Scotland,30,No,DD13 1GT,Active
+CUS-0011,Overbury Online,Online,West Midlands,6,Yes,B25 4EY,Active
+CUS-0012,Penford Supermarkets,Supermarket,South East,260,No,OX10 7WR,Active
+CUS-0013,Lydford Pharmacies,Pharmacy,North West,79,No,CH14 1DS,Active
+CUS-0014,Whinmoor Medical Supplies,Healthcare,Yorkshire,7,No,BD1 1XN,Active
+CUS-0015,Glenmere Health Supplies,Healthcare,East of England,39,No,CO5 8WJ,Active
+CUS-0016,Driftwood Pharmacy Group,Pharmacy,South East,162,Yes,MK19 2RX,Active
+CUS-0017,Ingleton Neighbourhood Stores,Convenience,North West,218,Yes,CH3 7WU,Active
+CUS-0018,Ollerton Food Halls,Supermarket,London,166,No,SE4 9YP,Active
+CUS-0019,Lakeside Pharmacies,Pharmacy,North West,45,No,M10 6HZ,Active
+CUS-0020,Otterburn Medical Supplies,Healthcare,Wales,15,No,SA13 4RF,Active
+CUS-0021,Greenacre Foodstores,Supermarket,North East,330,No,SR20 8WJ,Active
+CUS-0022,Emberton Online Grocer,Online,South East,3,No,ME21 3BF,Active
+CUS-0023,Cobbleford Neighbourhood Stores,Convenience,London,36,No,N13 8BA,Active
+CUS-0024,Daleford Cleaning,Facilities,North West,442,Yes,M27 2YJ,Active
+CUS-0025,Castleford Wholesale Supplies,Wholesale,South East,4,No,GU10 3QD,Active
+CUS-0026,Fenmoor Cleaning,Facilities,London,77,No,SE2 7FW,Active
+CUS-0027,Yelland Cleaning,Facilities,London,43,No,SE2 4UW,Active
+CUS-0028,Hollinwood Value Stores,Discounter,North East,167,No,SR1 8DD,Active
+CUS-0029,Netherfield Clinical Supplies,Healthcare,Yorkshire,70,Yes,HD17 1ST,Active
+CUS-0030,Rosedale Hospital Supplies,Healthcare,North West,48,No,WA2 7TL,Active
+CUS-0031,Oxleigh Hospital Supplies,Healthcare,Scotland,72,Yes,EH23 9WU,Closed
+CUS-0032,Sunnybank Cleaning Services,Facilities,North West,567,Yes,M24 3TY,Active
+CUS-0033,Tenbury Trade Supplies,Wholesale,South East,5,No,BN23 6WT,Active
+CUS-0034,Dunmore Market,Supermarket,West Midlands,250,No,B8 5AH,Active
+CUS-0035,Longridge Local,Convenience,Wales,92,No,NP11 2FW,Active
+CUS-0036,Tansley Grocers,Supermarket,Scotland,323,No,DD13 2UY,Active
+CUS-0037,Fallowfield Market Stores,Supermarket,Wales,141,No,CF21 5TN,Active
+CUS-0038,Allendale Wholesale,Wholesale,Yorkshire,7,No,HU4 4LR,Active
+CUS-0039,Birchmoor Direct,Online,South East,1,No,MK15 6QS,Active
+CUS-0040,Walsden Wholesale,Wholesale,East of England,14,Yes,IP13 3WU,Active
+CUS-0041,Fordham Pharmacy,Pharmacy,South West,42,No,TA22 8HT,Active
+CUS-0042,Orchardleigh Facilities,Facilities,Wales,437,Yes,NP20 7WQ,Active
+CUS-0043,Thornaby Wholesale,Wholesale,London,5,No,N6 6QN,Active
+CUS-0044,Gatcombe Convenience,Convenience,North West,133,No,BL12 5HA,Active
+CUS-0045,Greystone Neighbourhood Stores,Convenience,East of England,16,No,CB5 8SY,Active
+CUS-0046,Saverly Discount,Discounter,East of England,45,No,CO5 3YZ,Active
+CUS-0047,Oakbury Foodstores,Supermarket,Yorkshire,497,Yes,HU20 7WA,Active
+CUS-0048,Westmere Chemists,Pharmacy,Scotland,68,No,AB5 1YB,Active
+CUS-0049,Hawksmoor Distribution,Wholesale,East Midlands,9,No,NG22 5NA,Active
+CUS-0050,Kirkwood Contract Cleaning,Facilities,Yorkshire,292,Yes,YO8 6WA,Active
+CUS-0051,Inchmere Pharmacies,Pharmacy,East of England,52,No,CB1 3DU,Active
+CUS-0052,Stanbridge Local,Convenience,London,34,No,W6 6FX,Active
+CUS-0053,Goldthorpe Contract Cleaning,Facilities,London,150,No,SE16 1XA,Active
+CUS-0054,Millbrook Health Supplies,Healthcare,South East,20,No,GU4 3PE,Active
+CUS-0055,Nunthorpe Pharmacy,Pharmacy,North West,105,No,CH9 6PF,Active
+CUS-0056,Mapleton Facility Services,Facilities,South East,99,No,RG7 9LZ,Active
+CUS-0057,Dryden Facility Services,Facilities,Yorkshire,109,No,HU4 3ZX,Active
+CUS-0058,Coldharbour Cash and Carry,Wholesale,West Midlands,16,Yes,DY9 1BA,Active
+CUS-0059,Willowmere Wholesale,Wholesale,North West,2,No,M23 5FB,Active
+CUS-0060,Alderley Hygiene Services,Facilities,London,91,No,SW10 4AD,Active
+CUS-0061,Ambleside Trade Supplies,Wholesale,South West,7,No,PL19 5FH,Active
+CUS-0062,Kestrel Wholesale,Wholesale,South East,10,Yes,RG3 7JX,Active
+CUS-0063,Rothwell Local,Convenience,East of England,63,No,IP21 5QT,Active
+CUS-0064,Radwell Pharmacy Group,Pharmacy,South West,41,No,BS23 1TH,Active
+CUS-0065,Stokesley Cleaning,Facilities,Scotland,128,No,FK10 9WR,Active
+CUS-0066,Kelstone Pharmacy,Pharmacy,London,87,No,SE19 4AZ,Active
+CUS-0067,Hartwell Care Group,Healthcare,London,38,No,N18 6FJ,Active
+CUS-0068,Kestwell Cleaning Services,Facilities,Scotland,122,No,G7 7WT,Active
+CUS-0069,Gresford Local,Convenience,West Midlands,31,No,B10 2NG,Active
+CUS-0070,Durleigh Wholesale Supplies,Wholesale,South West,2,No,GL10 5BB,Active
+CUS-0071,Garside Cash and Carry,Wholesale,West Midlands,3,No,WV17 7DS,Active
+CUS-0072,Fairhurst Village Stores,Convenience,North East,17,No,NE19 6TF,Active
+CUS-0073,Dovecote Home Delivery,Online,East Midlands,5,Yes,DE14 8WS,Active
+CUS-0074,Hambleden Cleaning,Facilities,West Midlands,90,No,ST12 7UE,Active
+CUS-0075,Norbrook Direct,Online,North West,2,No,L22 3GW,Active
+CUS-0076,Lambourne Wholesale,Wholesale,Yorkshire,4,No,YO7 7EF,Active
+CUS-0077,Elm Pharmacy Group,Pharmacy,East of England,290,Yes,CB12 6LX,Active
+CUS-0078,Clearwater Home Delivery,Online,East of England,2,No,CO6 4UQ,Closed
+CUS-0079,Ashdale Cleaning Services,Facilities,South East,579,Yes,BN23 3AY,Active
+CUS-0080,Cranmore Facility Services,Facilities,East of England,107,No,NR5 3HZ,Active
+CUS-0081,Ivydene Pharmacies,Pharmacy,South East,119,No,MK7 4EP,Active
+CUS-0082,Langmere Discount Stores,Discounter,Wales,440,Yes,CF8 8ZR,Active
+CUS-0083,Fennick Pharmacy,Pharmacy,North West,260,Yes,BL14 4NH,Active
+CUS-0084,Upwell Contract Cleaning,Facilities,Yorkshire,65,No,HD14 2ZQ,Active
+CUS-0085,Glossop Vale Discount,Discounter,East of England,445,Yes,CO2 8NP,Active
+CUS-0086,Quayside Wholesale Supplies,Wholesale,South East,23,Yes,RG12 4FJ,Active
+CUS-0087,Underhill Neighbourhood Stores,Convenience,London,54,No,E21 3LJ,Active
+CUS-0088,Pemberley Discount Stores,Discounter,East Midlands,367,No,NG20 6EP,Active
+CUS-0089,BasketDrop Online,Online,South East,2,No,BN22 2XX,Active
+CUS-0090,Dunsford Foodstores,Supermarket,East Midlands,314,No,LE16 4DP,Active
+CUS-0091,Wexcombe Care Homes,Healthcare,Wales,22,No,CF5 4RT,Active
+CUS-0092,Hilltop Wholesale,Wholesale,North East,10,No,DH18 3YY,Active
+CUS-0093,Pinehurst Chemists,Pharmacy,London,398,Yes,E1 9TW,Active
+CUS-0094,Larchway Convenience,Convenience,East Midlands,140,No,LE8 3WD,Active
+CUS-0095,Westbury Convenience,Convenience,North East,126,No,NE14 9NE,Active
+CUS-0096,Deepdale Hospital Supplies,Healthcare,East of England,30,No,PE18 6QA,Closed
+CUS-0097,Elsworth Bargain Stores,Discounter,West Midlands,334,No,CV15 6PY,Active
+CUS-0098,Arnwood Home Delivery,Online,East of England,3,No,PE6 3PE,Active
+CUS-0099,Heathfield Online Grocer,Online,Yorkshire,1,No,HD22 1DQ,Active
+CUS-0100,Rockwell Hygiene Services,Facilities,Wales,91,No,NP20 5WS,Active
+CUS-0101,Northwold Local,Convenience,London,106,No,NW2 2QN,Active
+CUS-0102,Parkgate Pharmacies,Pharmacy,Scotland,40,No,FK18 3PR,Active
+CUS-0103,Wickham Care Homes,Healthcare,South West,110,Yes,BA17 6LX,Active
+CUS-0104,Barrowby Food Halls,Supermarket,London,544,Yes,E10 3HJ,Active
+CUS-0105,Northgate Health Supplies,Healthcare,West Midlands,95,Yes,ST12 8ED,Active
+CUS-0106,Marlowe Pharmacy Group,Pharmacy,East of England,38,No,IP13 8SE,Active
+CUS-0107,Bellhaven Wholesale,Wholesale,North West,3,No,PR1 5HF,Active
+CUS-0108,Cresswold Supermarkets,Supermarket,Yorkshire,755,Yes,YO15 1NG,Active
+CUS-0109,Iverley Health Supplies,Healthcare,South East,35,No,GU5 1ZB,Closed
+CUS-0110,Lowfield Care Group,Healthcare,West Midlands,48,No,B23 1EZ,Active
+CUS-0111,Wrexby Neighbourhood Stores,Convenience,South West,182,No,BS20 1TT,Active
+CUS-0112,Plumstead Discount,Discounter,South East,459,Yes,ME15 7ND,Active
+CUS-0113,Ripleigh Market Stores,Supermarket,South East,531,Yes,MK3 3UE,Active
+CUS-0114,Tilmoor Care Group,Healthcare,South East,52,No,MK9 9RF,Active
+CUS-0115,Saxonby Care Homes,Healthcare,Yorkshire,39,No,HD20 9XT,Active
+CUS-0116,Larkspur Facility Services,Facilities,South East,34,No,BN9 4BY,Active
+CUS-0117,Coniston Convenience,Convenience,Scotland,100,No,G2 8QR,Active
+CUS-0118,Oakhaven Care Homes,Healthcare,Scotland,60,Yes,G22 8XB,Active
+CUS-0119,Shelbrook Cleaning Services,Facilities,North West,104,No,M1 2DQ,Active
+CUS-0120,Ullswater Contract Cleaning,Facilities,South West,38,No,GL14 3QL,Active
+CUS-0121,Pennington Cash and Carry,Wholesale,North West,5,No,WA1 8XS,Active
+CUS-0122,Bexwell Neighbourhood Stores,Convenience,North East,49,No,TS23 3RY,Active
+CUS-0123,Ashcombe Care Homes,Healthcare,South West,52,No,PL15 5XP,Active
+CUS-0124,Fernhill Medical Supplies,Healthcare,London,9,No,SW3 1GU,Active
+CUS-0125,Lindhurst Online Grocer,Online,East of England,3,No,CO20 1EU,Active
+CUS-0126,Brampford Neighbourhood Stores,Convenience,London,284,Yes,E5 2PH,Active
+CUS-0127,Moorland Bargain Stores,Discounter,London,577,Yes,SW9 4DR,Active
+CUS-0128,Kenwick Online,Online,London,1,No,SE7 8TH,Active
+CUS-0129,Stonecroft Convenience,Convenience,North West,83,No,BL7 7YL,Active
+CUS-0130,Thurlow Facilities,Facilities,Yorkshire,100,No,YO12 9AA,Active
+CUS-0131,Brightline Cleaning,Facilities,East of England,260,No,CB7 6FN,Active
+CUS-0132,Sedgemoor Chemists,Pharmacy,East of England,107,No,NR15 7QD,Active
+CUS-0133,Highcliffe Grocers,Supermarket,South East,438,No,ME22 7LP,Active
+CUS-0134,Chalmers Discount Stores,Discounter,East Midlands,247,No,LN9 1FZ,Active
+CUS-0135,Walbrook Pharmacy Group,Pharmacy,East of England,19,No,CB4 6EE,Active
+CUS-0136,Loxwood Bargain Stores,Discounter,North West,107,No,M24 5JR,Active
+CUS-0137,Whitcombe Value Stores,Discounter,London,125,No,N21 4QW,Active
+CUS-0138,Northam Wholesale,Wholesale,East of England,3,No,CO12 4HX,Active
+CUS-0139,Silverdale Pharmacy,Pharmacy,Scotland,83,No,G20 8XD,Active
+CUS-0140,QuickCart Online,Online,South West,2,No,EX11 4TJ,Active
+CUS-0141,Penrose Care Group,Healthcare,Yorkshire,7,No,YO21 7HN,Active
+CUS-0142,Malvern Hill Discount,Discounter,East Midlands,217,No,NG4 6QE,Active
+CUS-0143,Newbridge Pharmacies,Pharmacy,East of England,206,Yes,PE5 3RS,Active
+CUS-0144,Torbridge Neighbourhood Stores,Convenience,London,224,Yes,N10 1ER,Active
+CUS-0145,Foxhollow Cleaning,Facilities,South West,35,No,PL9 3NW,Active
+CUS-0146,Upminster Vale Hospital Supplies,Healthcare,Yorkshire,96,Yes,BD6 1HZ,Active
+CUS-0147,Ventnor Discount,Discounter,South East,95,No,OX5 7TB,Active
+CUS-0148,Quarrington Cash and Carry,Wholesale,Yorkshire,28,Yes,HU8 5SR,Active
+CUS-0149,Beckwith Medical Supplies,Healthcare,Scotland,23,No,G2 5DT,Active
+CUS-0150,Yarrow Health Supplies,Healthcare,South West,19,No,EX3 9DJ,Active
+CUS-0151,Corbridge Express Stores,Convenience,South East,164,No,GU14 6QE,Active
+CUS-0152,Frampton Health Supplies,Healthcare,West Midlands,31,No,DY8 8RL,Active
+CUS-0153,Exton Care Homes,Healthcare,East Midlands,53,Yes,NG14 7WZ,Active
+CUS-0154,Harbury Wholesale Supplies,Wholesale,South East,8,No,ME3 3YN,Active
+CUS-0155,Brockley Pharmacy Group,Pharmacy,West Midlands,65,No,B25 8EE,Active
+CUS-0156,Dunmere Hygiene Services,Facilities,South West,418,Yes,EX9 8SX,Active
+CUS-0157,Thornleigh Home Delivery,Online,North East,1,No,TS11 3SA,Active
+CUS-0158,Redbrook Care Group,Healthcare,South East,69,Yes,OX10 9YG,Active
+CUS-0159,Eastwold Facility Services,Facilities,London,390,Yes,W6 7NJ,Active
+CUS-0160,Elmstead Distribution,Wholesale,Scotland,5,No,AB3 5XL,Active
+CUS-0161,Haltwhistle Pharmacies,Pharmacy,West Midlands,31,No,DY20 6WN,Active
+CUS-0162,Ravensdale Village Stores,Convenience,Wales,239,Yes,CF15 6UP,Active
+CUS-0163,Carlford Chemists,Pharmacy,North West,199,Yes,L12 1UJ,Active
+CUS-0164,Farnleigh Online,Online,East of England,2,No,CO4 4GR,Active
+CUS-0165,Egerton Trade Supplies,Wholesale,London,27,Yes,W26 1DE,Active
+CUS-0166,Amberley Facilities,Facilities,London,210,No,NW16 4WT,Active
+CUS-0167,Blackmore Wholesale Supplies,Wholesale,West Midlands,3,No,ST8 2GN,Active
+CUS-0168,Ashbourne Online Grocer,Online,North West,1,No,BL16 6WD,Active
+CUS-0169,Oakworth Medical Supplies,Healthcare,North West,19,No,BL5 6DW,Active
+CUS-0170,Fieldhouse Express Stores,Convenience,West Midlands,26,No,CV8 2TP,Active
+CUS-0171,Everleigh Direct,Online,North West,5,Yes,WA8 8SG,Active
+CUS-0172,Skelton Hospital Supplies,Healthcare,London,7,No,SW8 9DB,Active
+CUS-0173,Selwood Wholesale,Wholesale,East Midlands,5,No,NG3 6RA,Active
+CUS-0174,Gorsebrook Facility Services,Facilities,South West,272,No,BS19 5XS,Active
+CUS-0175,Rushmere Convenience,Convenience,South West,235,Yes,TA16 6TD,Active
+CUS-0176,Woodgate Neighbourhood Stores,Convenience,North West,62,No,WA14 2TE,Active
+CUS-0177,Moorcroft Health Supplies,Healthcare,East Midlands,30,No,NG14 9JF,Active
+CUS-0178,Northfield Hygiene Services,Facilities,West Midlands,41,No,ST2 5ES,Active
+CUS-0179,Kirkham Cleaning,Facilities,South East,165,No,GU16 6GL,Active
+CUS-0180,Kingsmere Bargain Stores,Discounter,Yorkshire,92,No,HU19 5EE,Active
